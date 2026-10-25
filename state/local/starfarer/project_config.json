@@ -1,0 +1,6 @@
+{
+  "user": "local",
+  "knowledge_pipeline": "structured_v1",
+  "ingest_source_filename": "starfarer.txt",
+  "project_uuid": "d7a668979b374a9ebb007599f6b83933"
+}

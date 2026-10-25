@@ -1,0 +1,5 @@
+{
+  "user": "local",
+  "knowledge_pipeline": "structured_v1",
+  "ingest_source_filename": "xianxia.txt"
+}

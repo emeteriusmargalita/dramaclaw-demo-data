@@ -1,0 +1,31 @@
+custom_providers:
+  - name: dramaclaw
+    base_url: http://localhost:3001/v1
+    key_env: NEWAPI_API_KEY
+    api_mode: chat_completions
+model:
+  default: DC-hermes-LLM
+  provider: custom:dramaclaw
+  context_length: 131072
+  api_mode: chat_completions
+enabled_toolsets:
+  - hermes-acp
+  - memory
+plugins:
+  enabled:
+    - dramaclaw
+display:
+  tool_progress: verbose
+  tool_progress_command: true
+disabled_toolsets:
+  - bash
+  - shell
+  - terminal
+  - subprocess
+  - file_write
+  - file_read
+  - edit
+  - write
+  - read
+  - glob
+  - grep

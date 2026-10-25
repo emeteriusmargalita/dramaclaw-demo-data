@@ -1,0 +1,12 @@
+{
+  "user": "local",
+  "knowledge_pipeline": "structured_v1",
+  "project_uuid": "5fa4f0b4c14e4a46ba0db4e0d9608b0d",
+  "visual_style": "guoman_fantasy",
+  "prop_image_selection": "newapi_gpt_image2",
+  "ingest_source_filename": "novel.txt",
+  "narrator_reference_audio_path": "assets/narrator/voice.wav",
+  "narrator_reference_audio_sha256": "29dfee39a8399f756ee2c9fbddb0705d7ae9c8c337fe0de10d96a47d611efe60",
+  "narrator_reference_audio_updated_at": "2026-09-24T20:25:20.055810+00:00",
+  "video_backend": "newapi_seedance-1.0-pro-fast"
+}

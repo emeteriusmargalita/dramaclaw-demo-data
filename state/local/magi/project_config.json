@@ -1,0 +1,6 @@
+{
+  "user": "local",
+  "knowledge_pipeline": "structured_v1",
+  "ingest_source_filename": "magi.txt",
+  "project_uuid": "2a163e4945a04eec9abc779122987a42"
+}
